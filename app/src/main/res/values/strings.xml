@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GitDemo</string>
+    <string name="goodbye_button">Goodbye</string>
     <string name="greeting">Hello , GitHub World!</string>
 </resources>
