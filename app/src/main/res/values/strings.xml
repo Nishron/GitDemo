@@ -2,4 +2,5 @@
     <string name="app_name">GitDemo</string>
     <string name="goodbye_button">Goodbye</string>
     <string name="greeting">Hello , GitHub World!</string>
+    <string name="new_text_view">New Text View</string>
 </resources>
